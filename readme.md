@@ -29,9 +29,9 @@
 
 ```diff
 25+ commands:
-> utils commands
-> user commands
-> server commands
-> lookup commands
-> and more coming soon...
+utils commands
+user commands
+server commands
+lookup commands
+and more coming soon...
 
