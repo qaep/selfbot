@@ -59,4 +59,4 @@ This Selfbot has been made in French so translate it if you're not
 - [Intrusif](https://github.com/qaep)
 
 ### <a id="credits"></a>📝 〢 Credits
-- [Sans](https://discord.com/users/1001171895909097533)
+Template: [Sans](https://discord.com/users/1001171895909097533)
