@@ -16,7 +16,7 @@ This Selfbot has been made in French so translate it if you're not
 ---
 
 ## <a id="content"></a>🌐 〢 Content
-- [🎉・Setting up](#setup)
+- [📁・Setting up](#setup)
 - [🔰・Features](#features)
 - [💼・Terms](#terms)
 - [🕵️‍♂️・Authors](#authors)
@@ -61,4 +61,4 @@ and more coming soon...
 ---
 
 ### <a id="credits"></a>📝 〢 Credits
-Template: [Sans](https://discord.com/users/1001171895909097533)
+Readme.md template: [Sans](https://discord.com/users/1001171895909097533)
