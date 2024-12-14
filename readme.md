@@ -45,7 +45,7 @@ lookup commands
 and more coming soon...
 ```
 
-
+---
 
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
@@ -53,9 +53,12 @@ and more coming soon...
 - [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
 - [x] I am NOT responsible for anything illegal you do with my software
 
+---
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
 - [Intrusif](https://github.com/qaep)
+
+---
 
 ### <a id="credits"></a>📝 〢 Credits
 Template: [Sans](https://discord.com/users/1001171895909097533)
