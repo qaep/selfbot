@@ -1,0 +1,8 @@
+{
+    "tokens": [
+        "token1",
+        "token2",
+        "etc"
+    ],
+    "prefix": ","
+}
