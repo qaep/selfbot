@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  Intrusif Selfbot +25 cmds
+  🪐 Intrusif Selfbot +25 cmds 🪐
 </h1>
 
 **NOTE:** 
@@ -37,13 +37,12 @@ This Selfbot has been made in French so translate it if you're not
 ## <a id="features"></a>🔰 〢 Features
 
 ```diff
-> Default:
-- 25+ commands:
-- utils commands
-- user commands
-- server commands
-- lookup commands
-- and more coming soon...
+25+ commands:
+utils commands
+user commands
+server commands
+lookup commands
+and more coming soon...
 ```
 
 
