@@ -1,8 +1,9 @@
-# 🪐 Intrusif Selfbot 25+ commands 🪐
+# 🪐 Intrusif Selfbot 🪐
 
 **NOTE:**  
 *Selfbotting is not allowed as per Discord's Terms of Service. This repo is not maintained and not in use by anyone I know of. I will keep it up merely as an example. I do not encourage anyone to use this.*
 
+*also this selfbot as been made in french so translate it if you're not*
 ---
 
 ## 🌐 〢 Content
@@ -26,12 +27,10 @@
 ## 🔰 〢 Features
 
 ```diff
-> Default:
-- backup system
-- raid commands
-- tool commands
-- utils commands
-- antiraid system
-- loggers
-- and more
+25+ commands:
+> utils commands
+> user commands
+> server commands
+> lookup commands
+> and more coming soon...
 
