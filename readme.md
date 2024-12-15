@@ -13,7 +13,7 @@ This Selfbot has been made in French so translate it if you're not
 
 - **not working rn because of "none type can't be used in await expression"**
   
-g la version fix mais az elle est à iech est il manque des cmds dcp bah si qqn peut m'aider à fix cette erreur y'aura la meilleure vers ici
+g la version fix mais az elle est à iech et il manque des cmds dcp bah si qqn peut m'aider à fix cette erreur y'aura la meilleure vers ici
 
 ---
 
