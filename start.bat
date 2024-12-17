@@ -82,6 +82,7 @@ python -m pip install asyncio==3.4.3
 python -m pip install aiohttp==3.7.4
 python -m pip install requests==2.31.0
 python -m pip install colorama==0.4.6
+python -m pip install discord.py==1.7.3
 cls
 echo tous les modules ont été installés
 pause
