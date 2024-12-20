@@ -19,6 +19,39 @@ echo.
 echo     -----------------------------------------------------------------------------------------------------------------------------------------                                                                  
 echo.
 echo.
+echo discontinued
+echo discontinued
+
+echo discontinued
+echo discontinued
+
+echo discontinued
+echo discontinued
+
+echo discontinued
+echo discontinued
+
+echo discontinued
+echo discontinued
+
+echo discontinued
+echo discontinued
+
+echo discontinued
+echo discontinued
+
+echo discontinued
+echo discontinued
+
+echo discontinued
+echo discontinued
+
+echo discontinued
+echo discontinued
+
+echo discontinued
+echo discontinued
+
 echo 1. Lancer intrusif selfbot avec la console affichée (py)
 echo.
 echo 2. Lancer intrusif selfbot sans la console affichée (pyw)
