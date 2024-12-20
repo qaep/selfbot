@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  🪐 Intrusif Selfbot +25 cmds 🪐
+  🪐 Intrusif Selfbot 🪐
 </h1>
 
 **NOTE:** 
@@ -10,16 +10,12 @@
 I'm not responsible for any damages this software may cause after being acquired.
 This Selfbot has been made in French so translate it if you're not
 *Selfbotting is not allowed as per Discord's Terms of Service This software was made for personal **education** and **sandbox testing** I do not encourage anyone to use this.*
-
-- **not working rn because of "none type can't be used in await expression"**
   
-g la version fix mais az elle est à iech et il manque des cmds dcp bah si qqn peut m'aider à fix cette erreur y'aura la meilleure vers ici
 
 ---
 
 ## <a id="content"></a>🌐 〢 Content
-- [📁・Setting up](#setup)
-- [🔰・Features](#features)
+- [・Discord(#discord)
 - [💼・Terms](#terms)
 - [🕵️‍♂️・Authors](#authors)
 - [📝・Credits](#credits)
@@ -27,28 +23,12 @@ g la version fix mais az elle est à iech et il manque des cmds dcp bah si qqn p
 ---
 
 
-## <a id="setup"></a> 📁 〢 Setting up
-1. Install [Python](https://python.org/)
-2. Download [the latest release](https://github.com/qaep/selfbot/archive/refs/heads/main.zip)
-3. Extract the ZIP file
-4. Complete the configuration in configs.json
-5. Run `start.bat` and start using the selfbot
-6. Enjoy!
+## <a id="discord"></a> 〢 Discord
+1. Join [discord](lienici)
+2. Enjoy!
 
 ---
 
-## <a id="features"></a>🔰 〢 Features
-
-```diff
-25+ commands:
-utils commands
-user commands
-server commands
-lookup commands
-and more coming soon...
-```
-
----
 
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
