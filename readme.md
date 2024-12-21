@@ -10,6 +10,8 @@
 I'm not responsible for any damages this software may cause after being acquired.
 This Selfbot has been made in French so translate it if you're not
 *Selfbotting is not allowed as per Discord's Terms of Service This software was made for personal **education** and **sandbox testing** I do not encourage anyone to use this.*
+
+# DISCONTINUED PLEASE JOIN SERV IF U WANT IT
   
 
 ---
